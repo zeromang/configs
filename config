@@ -1,0 +1,9 @@
+mpd_host = "localhost"
+
+mpd_port = "6600"
+
+mpd_music_dir = "/home/roman/music"
+playlist_disable_highlight_delay = "5"
+autocenter_mode = "yes"
+mouse_support = "yes"
+mouse_list_scroll_whole_page = "no"
